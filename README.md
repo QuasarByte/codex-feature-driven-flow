@@ -2,6 +2,9 @@
 
 Version: `1.1.0`
 
+> This repository is no longer the active development source for Feature-Driven-Flow.  
+> Ongoing development continues in [QuasarByte/feature-driven-flow](https://github.com/QuasarByte/feature-driven-flow), which now supports multiple AI coding agents, including Codex and Claude Code.
+
 ![Feature-Driven-Flow Cover](assets/images/fdf-cover-001.png)
 
 Feature-Driven-Flow is a markdown-first AI delivery framework for non-trivial changes.  
